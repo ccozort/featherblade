@@ -4,6 +4,7 @@
 # on acceleration https://www.khanacademy.org/science/physics/one-dimensional-motion/kinematic-formulas/v/average-velocity-for-constant-acceleration 
 # on vectors: https://www.youtube.com/watch?v=ml4NSzCQobk 
 
+# dummy comment
 
 import pygame as pg
 from pygame.sprite import Sprite
