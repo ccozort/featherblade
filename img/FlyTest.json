@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "flyangel0001.png",
+	"frame": {"x":1,"y":1,"w":254,"h":295},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":254,"h":295},
+	"sourceSize": {"w":256,"h":343},
+	"pivot": {"x":0.835938,"y":0.55102}
+},
+{
+	"filename": "flyangel0002.png",
+	"frame": {"x":452,"y":1,"w":255,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":69,"w":255,"h":229},
+	"sourceSize": {"w":256,"h":343},
+	"pivot": {"x":0.839844,"y":0.556851}
+},
+{
+	"filename": "flyangel0003.png",
+	"frame": {"x":709,"y":1,"w":145,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":91,"w":145,"h":212},
+	"sourceSize": {"w":256,"h":343},
+	"pivot": {"x":0.84375,"y":0.556851}
+},
+{
+	"filename": "flyangel0004.png",
+	"frame": {"x":298,"y":1,"w":152,"h":245},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":98,"w":152,"h":245},
+	"sourceSize": {"w":256,"h":343},
+	"pivot": {"x":0.835938,"y":0.562682}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "FlyTest.png",
+	"format": "RGBA8888",
+	"size": {"w":855,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5d41d34850659878767cdc90f528a59c:3a15113dc93ee82ce4fe54623f3af574:d3d0c7612d1cdeb0a019335187be1817$"
+}
+}

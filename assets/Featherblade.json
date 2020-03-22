@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Angel010000":
+{
+	"frame": {0,0,243,307},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,243,307},
+	"sourceSize": {243,307}
+},
+"Angel020000":
+{
+	"frame": {243,0,243,231},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,243,231},
+	"sourceSize": {243,231}
+},
+"Angel030000":
+{
+	"frame": {486,0,146,213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,146,213},
+	"sourceSize": {146,213}
+},
+"Angel040000":
+{
+	"frame": {632,0,141,250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,141,250},
+	"sourceSize": {141,250}
+},
+"AngelFront010000":
+{
+	"frame": {773,0,122,254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,122,254},
+	"sourceSize": {122,254}
+},
+"AngelFront020000":
+{
+	"frame": {895,0,122,251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,122,251},
+	"sourceSize": {122,251}
+},
+"Enemy010000":
+{
+	"frame": {0,307,153,148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,153,148},
+	"sourceSize": {153,148}
+},
+"Enemy020000":
+{
+	"frame": {153,307,153,195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,153,195},
+	"sourceSize": {153,195}
+},
+"Platform010000":
+{
+	"frame": {306,307,236,116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,236,116},
+	"sourceSize": {236,116}
+},
+"Platform020000":
+{
+	"frame": {542,307,371,106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {0,0,371,106},
+	"sourceSize": {371,106}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.0.0.326",
+	"image": "Featherblade.png",
+	"format": "RGBA8888",
+	"size": {1024,1024},
+	"scale": "1"
+}
+}

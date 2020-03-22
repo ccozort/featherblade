@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Featherblade.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cactus0000" x="0" y="0" width="73" height="81" pivotX="43.85" pivotY="-6.25"/>
+	<SubTexture name="Enemy0000" x="73" y="0" width="152" height="196" pivotX="-387.6" pivotY="-247.85"/>
+	<SubTexture name="Enemy0001" x="225" y="0" width="152" height="196"/>
+	<SubTexture name="Platform010000" x="377" y="0" width="159" height="77" pivotX="172.8" pivotY="41.55"/>
+	<SubTexture name="Platform020000" x="536" y="0" width="414" height="84" pivotX="204.6" pivotY="-14.75"/>
+	<SubTexture name="PowerUp0000" x="950" y="0" width="143" height="27" pivotX="-67.9" pivotY="25.75"/>
+	<SubTexture name="frontangel0000" x="1093" y="0" width="136" height="252" pivotX="65.25" pivotY="102.65"/>
+	<SubTexture name="frontangel0001" x="1229" y="0" width="136" height="252"/>
+	<SubTexture name="jumpangel0000" x="1365" y="0" width="298" height="415" pivotX="192" pivotY="219.55"/>
+	<SubTexture name="jumpangel0001" x="1663" y="0" width="298" height="415"/>
+	<SubTexture name="sideangel0000" x="0" y="415" width="674" height="299" pivotX="210.25" pivotY="139.75"/>
+	<SubTexture name="sideangel0001" x="674" y="415" width="674" height="299"/>
+	<SubTexture name="sideangel0002" x="1348" y="415" width="674" height="299"/>
+	<SubTexture name="sideangel0003" x="0" y="714" width="674" height="299"/>
+	<SubTexture name="walkangel0000" x="674" y="714" width="557" height="337" pivotX="70.4" pivotY="169.65"/>
+	<SubTexture name="walkangel0001" x="1231" y="714" width="557" height="337"/>
+	<SubTexture name="walkangel0002" x="0" y="1051" width="557" height="337"/>
+	<SubTexture name="walkangel0003" x="557" y="1051" width="557" height="337"/>
+</TextureAtlas>
